@@ -1,0 +1,4 @@
+flask
+cloudant
+ibmcloudant
+ibm_cloud_sdk_core
